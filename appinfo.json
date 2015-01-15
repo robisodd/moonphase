@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "MoonPhase",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[A-Z 0]",
+                "compatibility": "2.7",
+                "file": "fonts/moon_phases.ttf",
+                "name": "PHASE_16",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[a-l]",
+                "compatibility": "2.7",
+                "file": "fonts/pebblefont.ttf",
+                "name": "PEBBLE_32",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/PixelFont.TTF",
+                "name": "FONT_PIXEL_8",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "MoonPhase",
+    "uuid": "33a2c603-f95e-4b22-8600-32c73fff53f8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
